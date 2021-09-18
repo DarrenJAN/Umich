@@ -3,11 +3,11 @@
 Compute discrete convolution of the input vectors via
 matrix multiplication, returning both the matrix `H` and result `y`
 In:
-âˆ’ `h` vector of length `K`
-âˆ’ `x` vector of length `N`
+âˆ? `h` vector of length `K`
+âˆ? `x` vector of length `N`
 Out:
-âˆ’ `H` `M Ã— N` convolution matrix defined by `h`
-âˆ’ `y` vector of length `M` containing the discrete convolution of `h` and `x` computed using `H`.
+âˆ? `H` `M Ã— N` convolution matrix defined by `h`
+âˆ? `y` vector of length `M` containing the discrete convolution of `h` and `x` computed using `H`.
 """
 function convolution(h, x)
     K = length(h)
@@ -30,3 +30,4 @@ function convolution(h, x)
     y = H * x
     return H, y 
 end
+
