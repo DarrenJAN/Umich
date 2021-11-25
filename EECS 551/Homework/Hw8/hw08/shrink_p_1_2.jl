@@ -1,6 +1,6 @@
 """
 out = shrink_p_1_2(v, reg::Real)
-Compute minimizer of ``1/2 |v − x|^2 + reg |x|^p``
+Compute minimizer of ``1/2 |v 鈭� x|^2 + reg |x|^p``
 for `p=1/2` when `v` is real and nonnegative.
 In:
 * `v` scalar, vector, or array of (real, nonnegative) input values
