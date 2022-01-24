@@ -20,23 +20,23 @@ print(f"\n1.0 named schools = {named_schools}") # expression
 # 2.0 OBJECT BEHAVIORS (GENTLE INTRO)
 
 umich = 'University of Michigan'
-umich_lowercase = None
+umich_lowercase = umich.lower()
 
 print(f"\n2.0 UMich lowercase = {umich_lowercase}")
 
 umich_twitter = '@UMich @UMichiganNews @UMichResearch @UMSI'
 
-umich_twitter_handles = None
+umich_twitter_handles = umich_twitter.split()
 
 print(f"\n2.0 TWITTER 01 = {umich_twitter_handles}")
 
 umich_twitter = '@UMich,@UMichiganNews,@UMichResearch,@UMSI'
-umich_twitter_handles = None
+umich_twitter_handles = umich_twitter.split(',')
 
 print(f"\n2.0 TWITTER 02 = {umich_twitter_handles}")
 
 umich_twitter = '@UMich, @UMichiganNews, @UMichResearch, @UMSI'
-umich_twitter_handles = None
+umich_twitter_handles = umich_twitter.split(', ')
 
 print(f"\n2.0 TWITTER 03 = {umich_twitter_handles}")
 
