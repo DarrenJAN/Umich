@@ -30,7 +30,7 @@ print(f"\n2.0 Tesla vehicles (n={len(elec_vehicles)}) = {tesla_vehicles}")
 # 2.1 FOR LOOP
 print(f"\n2.1 elec_vehicles (loop)")
 
-for vehicle in elec_vehicles:
+for vehicle in range(3):
     print(vehicle)
 
 
