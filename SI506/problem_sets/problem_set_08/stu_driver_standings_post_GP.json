@@ -1,0 +1,122 @@
+[
+  {
+    "driver": "Charles Leclerc",
+    "team": "Ferrari",
+    "home_country": "Monaco",
+    "points": 26
+  },
+  {
+    "driver": "Carlos Sainz",
+    "team": "Ferrari",
+    "home_country": "Spain",
+    "points": 18
+  },
+  {
+    "driver": "Lewis Hamilton",
+    "team": "Mercedes",
+    "home_country": "United Kingdom",
+    "points": 15
+  },
+  {
+    "driver": "George Russell",
+    "team": "Mercedes",
+    "home_country": "United Kingdom",
+    "points": 12
+  },
+  {
+    "driver": "Kevin Magnussen",
+    "team": "Haas",
+    "home_country": "Denmark",
+    "points": 10
+  },
+  {
+    "driver": "Valtteri Bottas",
+    "team": "Alfa Romeo",
+    "home_country": "Finland",
+    "points": 8
+  },
+  {
+    "driver": "Esteban Ocon",
+    "team": "Alpine",
+    "home_country": "France",
+    "points": 6
+  },
+  {
+    "driver": "Yuki Tsunoda",
+    "team": "AlphaTauri",
+    "home_country": "Japan",
+    "points": 4
+  },
+  {
+    "driver": "Fernando Alonso",
+    "team": "Alpine",
+    "home_country": "Spain",
+    "points": 2
+  },
+  {
+    "driver": "Zhou Guanyu",
+    "team": "Alfa Romeo",
+    "home_country": "China",
+    "points": 1
+  },
+  {
+    "driver": "Max Verstappen",
+    "team": "Red Bull",
+    "home_country": "Netherlands",
+    "points": 0
+  },
+  {
+    "driver": "Sergio Perez",
+    "team": "Red Bull",
+    "home_country": "Mexico",
+    "points": 0
+  },
+  {
+    "driver": "Lando Norris",
+    "team": "McLaren",
+    "home_country": "United Kingdom",
+    "points": 0
+  },
+  {
+    "driver": "Daniel Ricciardo",
+    "team": "McLaren",
+    "home_country": "Australia",
+    "points": 0
+  },
+  {
+    "driver": "Pierre Gasly",
+    "team": "AlphaTauri",
+    "home_country": "France",
+    "points": 0
+  },
+  {
+    "driver": "Sebastian Vettel",
+    "team": "Aston Martin",
+    "home_country": "Germany",
+    "points": 0
+  },
+  {
+    "driver": "Lance Stroll",
+    "team": "Aston Martin",
+    "home_country": "Canada",
+    "points": 0
+  },
+  {
+    "driver": "Alexander Albon",
+    "team": "Williams",
+    "home_country": "Thailand",
+    "points": 0
+  },
+  {
+    "driver": "Nicholas Latifi",
+    "team": "Williams",
+    "home_country": "Canada",
+    "points": 0
+  },
+  {
+    "driver": "Mick Schumacher",
+    "team": "Haas",
+    "home_country": "Germany",
+    "points": 0
+  }
+]

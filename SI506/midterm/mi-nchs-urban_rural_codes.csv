@@ -1,0 +1,19 @@
+state,county,cbsa_title,ur_code,ur_code_name
+MI,Calhoun County,"Battle Creek, MI",4,Small metro
+MI,Genesee County,"Flint, MI",3,Medium metro
+MI,Hillsdale County,"Hillsdale, MI",6,Noncore
+MI,Ingham County,"Lansing-East Lansing, MI",3,Medium metro
+MI,Jackson County,"Jackson, MI",4,Small metro
+MI,Lapeer County,"Detroit-Warren-Dearborn, MI",2,Large fringe metro
+MI,Lenawee County,"Adrian, MI",5,Micropolitan
+MI,Livingston County,"Detroit-Warren-Dearborn, MI",2,Large fringe metro
+MI,Macomb County,"Detroit-Warren-Dearborn, MI",2,Large fringe metro
+MI,Monroe County,"Monroe, MI",4,Small metro
+MI,Oakland County,"Detroit-Warren-Dearborn, MI",2,Large fringe metro
+MI,Saginaw County,"Saginaw, MI",4,Small metro
+MI,St. Clair County,"Detroit-Warren-Dearborn, MI",2,Large fringe metro
+MI,Sanilac County,,6,Noncore
+MI,Shiawassee County,"Owosso, MI",5,Micropolitan
+MI,Tuscola County,,6,Noncore
+MI,Washtenaw County,"Ann Arbor, MI",3,Medium metro
+MI,Wayne County,"Detroit-Warren-Dearborn, MI",1,Large central metro

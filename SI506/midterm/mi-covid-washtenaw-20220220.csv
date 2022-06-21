@@ -1,0 +1,21 @@
+state_name,county_name,fips_code,report_date,cases_per_100K_7_day_count_change,percent_test_results_reported_positive_last_7_days,community_transmission_level
+Michigan,Washtenaw County,26161,2022/02/01,733.130,12.12,high
+Michigan,Washtenaw County,26161,2022/02/02,733.130,11.79,high
+Michigan,Washtenaw County,26161,2022/02/03,637.920,11.39,high
+Michigan,Washtenaw County,26161,2022/02/04,637.920,10.72,high
+Michigan,Washtenaw County,26161,2022/02/05,468.170,10.36,high
+Michigan,Washtenaw County,26161,2022/02/06,468.170,10.10,high
+Michigan,Washtenaw County,26161,2022/02/07,468.170,9.74,high
+Michigan,Washtenaw County,26161,2022/02/08,389.550,9.49,high
+Michigan,Washtenaw County,26161,2022/02/09,389.550,9.18,high
+Michigan,Washtenaw County,26161,2022/02/10,319.910,8.75,high
+Michigan,Washtenaw County,26161,2022/02/11,319.910,8.11,high
+Michigan,Washtenaw County,26161,2022/02/12,318.280,7.50,high
+Michigan,Washtenaw County,26161,2022/02/13,318.280,7.16,high
+Michigan,Washtenaw County,26161,2022/02/14,318.280,6.73,high
+Michigan,Washtenaw County,26161,2022/02/15,288.630,6.27,high
+Michigan,Washtenaw County,26161,2022/02/16,288.630,5.94,high
+Michigan,Washtenaw County,26161,2022/02/17,253.540,5.79,high
+Michigan,Washtenaw County,26161,2022/02/18,253.540,5.82,high
+Michigan,Washtenaw County,26161,2022/02/19,251.360,5.74,high
+Michigan,Washtenaw County,26161,2022/02/20,251.360,5.40,high

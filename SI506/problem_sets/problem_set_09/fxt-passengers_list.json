@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Anakin Skywalker",
+    "height": "188",
+    "mass": "84",
+    "birth_year": "41.9BBY",
+    "homeworld": "Tatooine",
+    "species": "Human",
+    "mother": "Shmi Skywalker",
+    "father": null,
+    "identity": "Jedi Knight",
+    "nickname": "Ani"
+  },
+  {
+    "name": "Padmé Amidala",
+    "height": "185",
+    "mass": "45",
+    "birth_year": "46BBY",
+    "homeworld": "Naboo",
+    "species": "Human",
+    "mother": "Jobal Naberrie",
+    "father": "Ruwee Naberrie",
+    "identity": "Senator",
+    "nickname": "Queen Amidala"
+  },
+  {
+    "name": "R2-D2",
+    "height": "96",
+    "mass": "32",
+    "birth_year": "33BBY",
+    "homeworld": "Naboo",
+    "species": "Droid",
+    "model": "R2 series",
+    "class": "Astromech Droid",
+    "sensor_color": [
+      "Black"
+    ]
+  },
+  {
+    "name": "C-3PO",
+    "height": "167",
+    "mass": "75",
+    "birth_year": "112BBY",
+    "homeworld": "Tatooine",
+    "species": "Droid",
+    "model": "3PO-series",
+    "class": "Protocol Droid",
+    "sensor_color": [
+      "Yellow",
+      "Red"
+    ]
+  }
+]

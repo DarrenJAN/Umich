@@ -1,0 +1,29 @@
+{
+  "anakin": {
+    "mother": "Shmi Skywalker",
+    "father": null,
+    "identity": "Jedi Knight",
+    "nickname": "Ani"
+  },
+  "padmé": {
+    "mother": "Jobal Naberrie",
+    "father": "Ruwee Naberrie",
+    "identity": "Senator",
+    "nickname": "Queen Amidala"
+  },
+  "r2-d2": {
+    "model": "R2 series",
+    "class": "Astromech Droid",
+    "sensor_color": [
+      "Black"
+    ]
+  },
+  "c-3po": {
+    "model": "3PO-series",
+    "class": "Protocol Droid",
+    "sensor_color": [
+      "Yellow",
+      "Red"
+    ]
+  }
+}

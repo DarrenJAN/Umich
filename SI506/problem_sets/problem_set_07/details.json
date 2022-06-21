@@ -1,0 +1,171 @@
+{
+    "1": {
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "ISBN_10": "0735211299",
+      "genre": [
+        "Nonfiction",
+        "Self-help"
+      ],
+      "price": {
+        "Kindle": 13.99,
+        "Audiobook": 0,
+        "Hardcover": 11.98,
+        "Paperback": 18
+      },
+      "discount": true
+    },
+    "2": {
+      "title": "It Ends with Us",
+      "author": "Colleen Hoover",
+      "ISBN_10": "1501110365",
+      "genre": [
+        "Romance Novel"
+      ],
+      "price": {
+        "Kindle": 11.99,
+        "Audiobook": 0,
+        "Paperback": 12.99
+      },
+      "discount": true
+    },
+    "3": {
+      "title": "Reminders of Him",
+      "author": "Colleen Hoover",
+      "ISBN_10": "1542025605",
+      "genre": [
+        "Domestic",
+        "Romance Novel"
+      ],
+      "price": {
+        "Kindle": 0,
+        "Audiobook": 0,
+        "Paperback": 11.95
+      },
+      "discount": true
+    },
+    "5": {
+      "title": "The Seven Husbands of Evelyn Hugo",
+      "author": "Taylor Jenkins Reid",
+      "ISBN_10": "1501161938",
+      "genre": [
+        "Psychological Fiction",
+        "Romance Novel"
+      ],
+      "price": {
+        "Kindle": 14.99,
+        "Audiobook": 0,
+        "Hardcover": 22.49,
+        "Paperback": 9.42
+      },
+      "discount": false
+    },
+    "6": {
+      "title": "Verity",
+      "author": "Colleen Hoover",
+      "ISBN_10": "1538724731",
+      "genre": [
+        "Thriller",
+        "Romance Novel"
+      ],
+      "price": {
+        "Kindle": 11.99,
+        "Audiobook": 0,
+        "Hardcover": 23.99,
+        "Paperback": 11.26
+      },
+      "discount": false
+    },
+    "10": {
+      "title": "Little Blue Truck's Valentine",
+      "author": "Alice Schertle",
+      "ISBN_10": "0358272440",
+      "genre": [
+        "Children’s Picture Books",
+        "Bedtime Story"
+      ],
+      "price": {
+        "Kindle": 0,
+        "Hardcover": 10.55
+      },
+      "discount": false
+    },
+    "15": {
+      "title": "The Complete Maus: A Survivor's Tale",
+      "author": "Art Spiegelman",
+      "ISBN_10": "0679406417",
+      "genre": [
+        "Comics",
+        "Graphic Novel"
+      ],
+      "price": {
+        "Hardcover": 22.89,
+        "Paperback": 33
+      },
+      "discount": false
+    },
+    "16": {
+      "title": "I Love You to the Moon and Back",
+      "author": "Amelia Hepworth",
+      "ISBN_10": "1589255518",
+      "genre": [
+        "Children’s Picture Books",
+        "Fiction"
+      ],
+      "price": {
+        "Audiobook": 0,
+        "Hardcover": 12.57,
+        "Board book": 4.31
+      },
+      "discount": true
+    },
+    "19": {
+      "title": "The Very Hungry Caterpillar",
+      "author": "Eric Carle",
+      "ISBN_10": "0399226907",
+      "genre": [
+        "Children’s Picture Books",
+        "Fiction"
+      ],
+      "price": {
+        "Kindle": 8.99,
+        "Audiobook": 0,
+        "Board book": 5.06
+      },
+      "discount": false
+    },
+    "22": {
+      "title": "The Last Thing He Told Me",
+      "author": "Laura Dave",
+      "ISBN_10": "1501171348",
+      "genre": [
+        "Thriller",
+        "Domestic Fiction"
+      ],
+      "price": {
+        "Kindle": 13.99,
+        "Audiobook": 0,
+        "Hardcover": 13.5,
+        "Paperback": 15,
+        "Audio CD": 14.85
+      },
+      "discount": true
+    },
+    "24": {
+      "title": "How to Catch a Leprechaun",
+      "author": "Adam Wallace",
+      "ISBN_10": "1492632910",
+      "genre": [
+        "Children’s Picture Books",
+        "Fiction"
+      ],
+      "price": {
+        "Kindle": 5.99,
+        "Audiobook": 0,
+        "Hardcover": 7.43,
+        "Paperback": 8.99,
+        "Audio CD": 24.05
+      },
+      "discount": true
+    }
+  }

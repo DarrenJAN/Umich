@@ -1,0 +1,42 @@
+[
+  {
+    "team": "Ferrari",
+    "points": 44
+  },
+  {
+    "team": "Mercedes",
+    "points": 27
+  },
+  {
+    "team": "Haas",
+    "points": 10
+  },
+  {
+    "team": "Alfa Romeo",
+    "points": 9
+  },
+  {
+    "team": "Alpine",
+    "points": 8
+  },
+  {
+    "team": "AlphaTauri",
+    "points": 4
+  },
+  {
+    "team": "Williams",
+    "points": 0
+  },
+  {
+    "team": "Red Bull",
+    "points": 0
+  },
+  {
+    "team": "McLaren",
+    "points": 0
+  },
+  {
+    "team": "Aston Martin",
+    "points": 0
+  }
+]

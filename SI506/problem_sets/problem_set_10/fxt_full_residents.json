@@ -1,0 +1,1741 @@
+[
+  {
+    "name": "Luke Skywalker",
+    "height_cm": 172.0,
+    "mass_kg": 77.0,
+    "birth_year": "19BBY",
+    "homeworld": {
+      "name": "Tatooine",
+      "rotation_period": 23.0,
+      "diameter": 10465.0,
+      "climate": "arid",
+      "population": 200000.0,
+      "url": "https://swapi.py4e.com/api/planets/1/"
+    },
+    "species": {
+      "name": "Human",
+      "classification": "mammal",
+      "average_height": 180.0,
+      "designation": "sentient",
+      "average_lifespan": 120.0,
+      "language": "Galactic Basic",
+      "url": "https://swapi.py4e.com/api/species/1/"
+    }
+  },
+  {
+    "name": "C-3PO",
+    "height_cm": 167.0,
+    "mass_kg": 75.0,
+    "birth_year": "112BBY",
+    "homeworld": {
+      "name": "Tatooine",
+      "rotation_period": 23.0,
+      "diameter": 10465.0,
+      "climate": "arid",
+      "population": 200000.0,
+      "url": "https://swapi.py4e.com/api/planets/1/"
+    },
+    "species": {
+      "name": "Droid",
+      "classification": "artificial",
+      "average_height": "n/a",
+      "designation": "sentient",
+      "average_lifespan": "indefinite",
+      "language": "n/a",
+      "url": "https://swapi.py4e.com/api/species/2/"
+    }
+  },
+  {
+    "name": "Darth Vader",
+    "height_cm": 202.0,
+    "mass_kg": 136.0,
+    "birth_year": "41.9BBY",
+    "homeworld": {
+      "name": "Tatooine",
+      "rotation_period": 23.0,
+      "diameter": 10465.0,
+      "climate": "arid",
+      "population": 200000.0,
+      "url": "https://swapi.py4e.com/api/planets/1/"
+    },
+    "species": {
+      "name": "Human",
+      "classification": "mammal",
+      "average_height": 180.0,
+      "designation": "sentient",
+      "average_lifespan": 120.0,
+      "language": "Galactic Basic",
+      "url": "https://swapi.py4e.com/api/species/1/"
+    }
+  },
+  {
+    "name": "Owen Lars",
+    "height_cm": 178.0,
+    "mass_kg": 120.0,
+    "birth_year": "52BBY",
+    "homeworld": {
+      "name": "Tatooine",
+      "rotation_period": 23.0,
+      "diameter": 10465.0,
+      "climate": "arid",
+      "population": 200000.0,
+      "url": "https://swapi.py4e.com/api/planets/1/"
+    },
+    "species": {
+      "name": "Human",
+      "classification": "mammal",
+      "average_height": 180.0,
+      "designation": "sentient",
+      "average_lifespan": 120.0,
+      "language": "Galactic Basic",
+      "url": "https://swapi.py4e.com/api/species/1/"
+    }
+  },
+  {
+    "name": "Beru Whitesun lars",
+    "height_cm": 165.0,
+    "mass_kg": 75.0,
+    "birth_year": "47BBY",
+    "homeworld": {
+      "name": "Tatooine",
+      "rotation_period": 23.0,
+      "diameter": 10465.0,
+      "climate": "arid",
+      "population": 200000.0,
+      "url": "https://swapi.py4e.com/api/planets/1/"
+    },
+    "species": {
+      "name": "Human",
+      "classification": "mammal",
+      "average_height": 180.0,
+      "designation": "sentient",
+      "average_lifespan": 120.0,
+      "language": "Galactic Basic",
+      "url": "https://swapi.py4e.com/api/species/1/"
+    }
+  },
+  {
+    "name": "R5-D4",
+    "height_cm": 97.0,
+    "mass_kg": 32.0,
+    "birth_year": null,
+    "homeworld": {
+      "name": "Tatooine",
+      "rotation_period": 23.0,
+      "diameter": 10465.0,
+      "climate": "arid",
+      "population": 200000.0,
+      "url": "https://swapi.py4e.com/api/planets/1/"
+    },
+    "species": {
+      "name": "Droid",
+      "classification": "artificial",
+      "average_height": "n/a",
+      "designation": "sentient",
+      "average_lifespan": "indefinite",
+      "language": "n/a",
+      "url": "https://swapi.py4e.com/api/species/2/"
+    }
+  },
+  {
+    "name": "Biggs Darklighter",
+    "height_cm": 183.0,
+    "mass_kg": 84.0,
+    "birth_year": "24BBY",
+    "homeworld": {
+      "name": "Tatooine",
+      "rotation_period": 23.0,
+      "diameter": 10465.0,
+      "climate": "arid",
+      "population": 200000.0,
+      "url": "https://swapi.py4e.com/api/planets/1/"
+    },
+    "species": {
+      "name": "Human",
+      "classification": "mammal",
+      "average_height": 180.0,
+      "designation": "sentient",
+      "average_lifespan": 120.0,
+      "language": "Galactic Basic",
+      "url": "https://swapi.py4e.com/api/species/1/"
+    }
+  },
+  {
+    "name": "Anakin Skywalker",
+    "height_cm": 188.0,
+    "mass_kg": 84.0,
+    "birth_year": "41.9BBY",
+    "homeworld": {
+      "name": "Tatooine",
+      "rotation_period": 23.0,
+      "diameter": 10465.0,
+      "climate": "arid",
+      "population": 200000.0,
+      "url": "https://swapi.py4e.com/api/planets/1/"
+    },
+    "species": {
+      "name": "Human",
+      "classification": "mammal",
+      "average_height": 180.0,
+      "designation": "sentient",
+      "average_lifespan": 120.0,
+      "language": "Galactic Basic",
+      "url": "https://swapi.py4e.com/api/species/1/"
+    }
+  },
+  {
+    "name": "Shmi Skywalker",
+    "height_cm": 163.0,
+    "mass_kg": null,
+    "birth_year": "72BBY",
+    "homeworld": {
+      "name": "Tatooine",
+      "rotation_period": 23.0,
+      "diameter": 10465.0,
+      "climate": "arid",
+      "population": 200000.0,
+      "url": "https://swapi.py4e.com/api/planets/1/"
+    },
+    "species": {
+      "name": "Human",
+      "classification": "mammal",
+      "average_height": 180.0,
+      "designation": "sentient",
+      "average_lifespan": 120.0,
+      "language": "Galactic Basic",
+      "url": "https://swapi.py4e.com/api/species/1/"
+    }
+  },
+  {
+    "name": "Cliegg Lars",
+    "height_cm": 183.0,
+    "mass_kg": null,
+    "birth_year": "82BBY",
+    "homeworld": {
+      "name": "Tatooine",
+      "rotation_period": 23.0,
+      "diameter": 10465.0,
+      "climate": "arid",
+      "population": 200000.0,
+      "url": "https://swapi.py4e.com/api/planets/1/"
+    },
+    "species": {
+      "name": "Human",
+      "classification": "mammal",
+      "average_height": 180.0,
+      "designation": "sentient",
+      "average_lifespan": 120.0,
+      "language": "Galactic Basic",
+      "url": "https://swapi.py4e.com/api/species/1/"
+    }
+  },
+  {
+    "name": "Leia Organa",
+    "height_cm": 150.0,
+    "mass_kg": 49.0,
+    "birth_year": "19BBY",
+    "homeworld": {
+      "name": "Alderaan",
+      "rotation_period": 24.0,
+      "diameter": 12500.0,
+      "climate": "temperate",
+      "population": 2000000000.0,
+      "url": "https://swapi.py4e.com/api/planets/2/"
+    },
+    "species": {
+      "name": "Human",
+      "classification": "mammal",
+      "average_height": 180.0,
+      "designation": "sentient",
+      "average_lifespan": 120.0,
+      "language": "Galactic Basic",
+      "url": "https://swapi.py4e.com/api/species/1/"
+    }
+  },
+  {
+    "name": "Bail Prestor Organa",
+    "height_cm": 191.0,
+    "mass_kg": null,
+    "birth_year": "67BBY",
+    "homeworld": {
+      "name": "Alderaan",
+      "rotation_period": 24.0,
+      "diameter": 12500.0,
+      "climate": "temperate",
+      "population": 2000000000.0,
+      "url": "https://swapi.py4e.com/api/planets/2/"
+    },
+    "species": {
+      "name": "Human",
+      "classification": "mammal",
+      "average_height": 180.0,
+      "designation": "sentient",
+      "average_lifespan": 120.0,
+      "language": "Galactic Basic",
+      "url": "https://swapi.py4e.com/api/species/1/"
+    }
+  },
+  {
+    "name": "Raymus Antilles",
+    "height_cm": 188.0,
+    "mass_kg": 79.0,
+    "birth_year": null,
+    "homeworld": {
+      "name": "Alderaan",
+      "rotation_period": 24.0,
+      "diameter": 12500.0,
+      "climate": "temperate",
+      "population": 2000000000.0,
+      "url": "https://swapi.py4e.com/api/planets/2/"
+    },
+    "species": {
+      "name": "Human",
+      "classification": "mammal",
+      "average_height": 180.0,
+      "designation": "sentient",
+      "average_lifespan": 120.0,
+      "language": "Galactic Basic",
+      "url": "https://swapi.py4e.com/api/species/1/"
+    }
+  },
+  {
+    "name": "Lobot",
+    "height_cm": 175.0,
+    "mass_kg": 79.0,
+    "birth_year": "37BBY",
+    "homeworld": {
+      "name": "Bespin",
+      "rotation_period": 12.0,
+      "diameter": 118000.0,
+      "climate": "temperate",
+      "population": 6000000.0,
+      "url": "https://swapi.py4e.com/api/planets/6/"
+    },
+    "species": {
+      "name": "Human",
+      "classification": "mammal",
+      "average_height": 180.0,
+      "designation": "sentient",
+      "average_lifespan": 120.0,
+      "language": "Galactic Basic",
+      "url": "https://swapi.py4e.com/api/species/1/"
+    }
+  },
+  {
+    "name": "Wicket Systri Warrick",
+    "height_cm": 88.0,
+    "mass_kg": 20.0,
+    "birth_year": "8BBY",
+    "homeworld": {
+      "name": "Endor",
+      "rotation_period": 18.0,
+      "diameter": 4900.0,
+      "climate": "temperate",
+      "population": 30000000.0,
+      "url": "https://swapi.py4e.com/api/planets/7/"
+    },
+    "species": {
+      "name": "Ewok",
+      "classification": "mammal",
+      "average_height": 100.0,
+      "designation": "sentient",
+      "average_lifespan": "unknown",
+      "language": "Ewokese",
+      "url": "https://swapi.py4e.com/api/species/9/"
+    }
+  },
+  {
+    "name": "R2-D2",
+    "height_cm": 96.0,
+    "mass_kg": 32.0,
+    "birth_year": "33BBY",
+    "homeworld": {
+      "name": "Naboo",
+      "rotation_period": 26.0,
+      "diameter": 12120.0,
+      "climate": "temperate",
+      "population": 4500000000.0,
+      "url": "https://swapi.py4e.com/api/planets/8/"
+    },
+    "species": {
+      "name": "Droid",
+      "classification": "artificial",
+      "average_height": "n/a",
+      "designation": "sentient",
+      "average_lifespan": "indefinite",
+      "language": "n/a",
+      "url": "https://swapi.py4e.com/api/species/2/"
+    }
+  },
+  {
+    "name": "Palpatine",
+    "height_cm": 170.0,
+    "mass_kg": 75.0,
+    "birth_year": "82BBY",
+    "homeworld": {
+      "name": "Naboo",
+      "rotation_period": 26.0,
+      "diameter": 12120.0,
+      "climate": "temperate",
+      "population": 4500000000.0,
+      "url": "https://swapi.py4e.com/api/planets/8/"
+    },
+    "species": {
+      "name": "Human",
+      "classification": "mammal",
+      "average_height": 180.0,
+      "designation": "sentient",
+      "average_lifespan": 120.0,
+      "language": "Galactic Basic",
+      "url": "https://swapi.py4e.com/api/species/1/"
+    }
+  },
+  {
+    "name": "Padmé Amidala",
+    "height_cm": 185.0,
+    "mass_kg": 45.0,
+    "birth_year": "46BBY",
+    "homeworld": {
+      "name": "Naboo",
+      "rotation_period": 26.0,
+      "diameter": 12120.0,
+      "climate": "temperate",
+      "population": 4500000000.0,
+      "url": "https://swapi.py4e.com/api/planets/8/"
+    },
+    "species": {
+      "name": "Human",
+      "classification": "mammal",
+      "average_height": 180.0,
+      "designation": "sentient",
+      "average_lifespan": 120.0,
+      "language": "Galactic Basic",
+      "url": "https://swapi.py4e.com/api/species/1/"
+    }
+  },
+  {
+    "name": "Jar Jar Binks",
+    "height_cm": 196.0,
+    "mass_kg": 66.0,
+    "birth_year": "52BBY",
+    "homeworld": {
+      "name": "Naboo",
+      "rotation_period": 26.0,
+      "diameter": 12120.0,
+      "climate": "temperate",
+      "population": 4500000000.0,
+      "url": "https://swapi.py4e.com/api/planets/8/"
+    },
+    "species": {
+      "name": "Gungan",
+      "classification": "amphibian",
+      "average_height": 190.0,
+      "designation": "sentient",
+      "average_lifespan": "unknown",
+      "language": "Gungan basic",
+      "url": "https://swapi.py4e.com/api/species/12/"
+    }
+  },
+  {
+    "name": "Roos Tarpals",
+    "height_cm": 224.0,
+    "mass_kg": 82.0,
+    "birth_year": null,
+    "homeworld": {
+      "name": "Naboo",
+      "rotation_period": 26.0,
+      "diameter": 12120.0,
+      "climate": "temperate",
+      "population": 4500000000.0,
+      "url": "https://swapi.py4e.com/api/planets/8/"
+    },
+    "species": {
+      "name": "Gungan",
+      "classification": "amphibian",
+      "average_height": 190.0,
+      "designation": "sentient",
+      "average_lifespan": "unknown",
+      "language": "Gungan basic",
+      "url": "https://swapi.py4e.com/api/species/12/"
+    }
+  },
+  {
+    "name": "Rugor Nass",
+    "height_cm": 206.0,
+    "mass_kg": null,
+    "birth_year": null,
+    "homeworld": {
+      "name": "Naboo",
+      "rotation_period": 26.0,
+      "diameter": 12120.0,
+      "climate": "temperate",
+      "population": 4500000000.0,
+      "url": "https://swapi.py4e.com/api/planets/8/"
+    },
+    "species": {
+      "name": "Gungan",
+      "classification": "amphibian",
+      "average_height": 190.0,
+      "designation": "sentient",
+      "average_lifespan": "unknown",
+      "language": "Gungan basic",
+      "url": "https://swapi.py4e.com/api/species/12/"
+    }
+  },
+  {
+    "name": "Ric Olié",
+    "height_cm": 183.0,
+    "mass_kg": null,
+    "birth_year": null,
+    "homeworld": {
+      "name": "Naboo",
+      "rotation_period": 26.0,
+      "diameter": 12120.0,
+      "climate": "temperate",
+      "population": 4500000000.0,
+      "url": "https://swapi.py4e.com/api/planets/8/"
+    },
+    "species": {
+      "name": "Human",
+      "classification": "mammal",
+      "average_height": 180.0,
+      "designation": "sentient",
+      "average_lifespan": 120.0,
+      "language": "Galactic Basic",
+      "url": "https://swapi.py4e.com/api/species/1/"
+    }
+  },
+  {
+    "name": "Quarsh Panaka",
+    "height_cm": 183.0,
+    "mass_kg": null,
+    "birth_year": "62BBY",
+    "homeworld": {
+      "name": "Naboo",
+      "rotation_period": 26.0,
+      "diameter": 12120.0,
+      "climate": "temperate",
+      "population": 4500000000.0,
+      "url": "https://swapi.py4e.com/api/planets/8/"
+    },
+    "species": {
+      "name": "Human",
+      "classification": "mammal",
+      "average_height": 180.0,
+      "designation": "sentient",
+      "average_lifespan": 120.0,
+      "language": "Galactic Basic",
+      "url": "https://swapi.py4e.com/api/species/1/"
+    }
+  },
+  {
+    "name": "Gregar Typho",
+    "height_cm": 185.0,
+    "mass_kg": 85.0,
+    "birth_year": null,
+    "homeworld": {
+      "name": "Naboo",
+      "rotation_period": 26.0,
+      "diameter": 12120.0,
+      "climate": "temperate",
+      "population": 4500000000.0,
+      "url": "https://swapi.py4e.com/api/planets/8/"
+    },
+    "species": []
+  },
+  {
+    "name": "Cordé",
+    "height_cm": 157.0,
+    "mass_kg": null,
+    "birth_year": null,
+    "homeworld": {
+      "name": "Naboo",
+      "rotation_period": 26.0,
+      "diameter": 12120.0,
+      "climate": "temperate",
+      "population": 4500000000.0,
+      "url": "https://swapi.py4e.com/api/planets/8/"
+    },
+    "species": []
+  },
+  {
+    "name": "Dormé",
+    "height_cm": 165.0,
+    "mass_kg": null,
+    "birth_year": null,
+    "homeworld": {
+      "name": "Naboo",
+      "rotation_period": 26.0,
+      "diameter": 12120.0,
+      "climate": "temperate",
+      "population": 4500000000.0,
+      "url": "https://swapi.py4e.com/api/planets/8/"
+    },
+    "species": {
+      "name": "Human",
+      "classification": "mammal",
+      "average_height": 180.0,
+      "designation": "sentient",
+      "average_lifespan": 120.0,
+      "language": "Galactic Basic",
+      "url": "https://swapi.py4e.com/api/species/1/"
+    }
+  },
+  {
+    "name": "Finis Valorum",
+    "height_cm": 170.0,
+    "mass_kg": null,
+    "birth_year": "91BBY",
+    "homeworld": {
+      "name": "Coruscant",
+      "rotation_period": 24.0,
+      "diameter": 12240.0,
+      "climate": "temperate",
+      "population": 1000000000000.0,
+      "url": "https://swapi.py4e.com/api/planets/9/"
+    },
+    "species": {
+      "name": "Human",
+      "classification": "mammal",
+      "average_height": 180.0,
+      "designation": "sentient",
+      "average_lifespan": 120.0,
+      "language": "Galactic Basic",
+      "url": "https://swapi.py4e.com/api/species/1/"
+    }
+  },
+  {
+    "name": "Adi Gallia",
+    "height_cm": 184.0,
+    "mass_kg": 50.0,
+    "birth_year": null,
+    "homeworld": {
+      "name": "Coruscant",
+      "rotation_period": 24.0,
+      "diameter": 12240.0,
+      "climate": "temperate",
+      "population": 1000000000000.0,
+      "url": "https://swapi.py4e.com/api/planets/9/"
+    },
+    "species": {
+      "name": "Tholothian",
+      "classification": "mammal",
+      "average_height": "unknown",
+      "designation": "sentient",
+      "average_lifespan": "unknown",
+      "language": "unknown",
+      "url": "https://swapi.py4e.com/api/species/23/"
+    }
+  },
+  {
+    "name": "Jocasta Nu",
+    "height_cm": 167.0,
+    "mass_kg": null,
+    "birth_year": null,
+    "homeworld": {
+      "name": "Coruscant",
+      "rotation_period": 24.0,
+      "diameter": 12240.0,
+      "climate": "temperate",
+      "population": 1000000000000.0,
+      "url": "https://swapi.py4e.com/api/planets/9/"
+    },
+    "species": {
+      "name": "Human",
+      "classification": "mammal",
+      "average_height": 180.0,
+      "designation": "sentient",
+      "average_lifespan": 120.0,
+      "language": "Galactic Basic",
+      "url": "https://swapi.py4e.com/api/species/1/"
+    }
+  },
+  {
+    "name": "Boba Fett",
+    "height_cm": 183.0,
+    "mass_kg": 78.2,
+    "birth_year": "31.5BBY",
+    "homeworld": {
+      "name": "Kamino",
+      "rotation_period": 27.0,
+      "diameter": 19720.0,
+      "climate": "temperate",
+      "population": 1000000000.0,
+      "url": "https://swapi.py4e.com/api/planets/10/"
+    },
+    "species": {
+      "name": "Human",
+      "classification": "mammal",
+      "average_height": 180.0,
+      "designation": "sentient",
+      "average_lifespan": 120.0,
+      "language": "Galactic Basic",
+      "url": "https://swapi.py4e.com/api/species/1/"
+    }
+  },
+  {
+    "name": "Lama Su",
+    "height_cm": 229.0,
+    "mass_kg": 88.0,
+    "birth_year": null,
+    "homeworld": {
+      "name": "Kamino",
+      "rotation_period": 27.0,
+      "diameter": 19720.0,
+      "climate": "temperate",
+      "population": 1000000000.0,
+      "url": "https://swapi.py4e.com/api/planets/10/"
+    },
+    "species": {
+      "name": "Kaminoan",
+      "classification": "amphibian",
+      "average_height": 220.0,
+      "designation": "sentient",
+      "average_lifespan": 80.0,
+      "language": "Kaminoan",
+      "url": "https://swapi.py4e.com/api/species/32/"
+    }
+  },
+  {
+    "name": "Taun We",
+    "height_cm": 213.0,
+    "mass_kg": null,
+    "birth_year": null,
+    "homeworld": {
+      "name": "Kamino",
+      "rotation_period": 27.0,
+      "diameter": 19720.0,
+      "climate": "temperate",
+      "population": 1000000000.0,
+      "url": "https://swapi.py4e.com/api/planets/10/"
+    },
+    "species": {
+      "name": "Kaminoan",
+      "classification": "amphibian",
+      "average_height": 220.0,
+      "designation": "sentient",
+      "average_lifespan": 80.0,
+      "language": "Kaminoan",
+      "url": "https://swapi.py4e.com/api/species/32/"
+    }
+  },
+  {
+    "name": "Poggle the Lesser",
+    "height_cm": 183.0,
+    "mass_kg": 80.0,
+    "birth_year": null,
+    "homeworld": {
+      "name": "Geonosis",
+      "rotation_period": 30.0,
+      "diameter": 11370.0,
+      "climate": "temperate, arid",
+      "population": 100000000000.0,
+      "url": "https://swapi.py4e.com/api/planets/11/"
+    },
+    "species": {
+      "name": "Geonosian",
+      "classification": "insectoid",
+      "average_height": 178.0,
+      "designation": "sentient",
+      "average_lifespan": "unknown",
+      "language": "Geonosian",
+      "url": "https://swapi.py4e.com/api/species/28/"
+    }
+  },
+  {
+    "name": "Tion Medon",
+    "height_cm": 206.0,
+    "mass_kg": 80.0,
+    "birth_year": null,
+    "homeworld": {
+      "name": "Utapau",
+      "rotation_period": 27.0,
+      "diameter": 12900.0,
+      "climate": "temperate, arid, windy",
+      "population": 95000000.0,
+      "url": "https://swapi.py4e.com/api/planets/12/"
+    },
+    "species": {
+      "name": "Pau'an",
+      "classification": "mammal",
+      "average_height": 190.0,
+      "designation": "sentient",
+      "average_lifespan": 700.0,
+      "language": "Utapese",
+      "url": "https://swapi.py4e.com/api/species/37/"
+    }
+  },
+  {
+    "name": "Chewbacca",
+    "height_cm": 228.0,
+    "mass_kg": 112.0,
+    "birth_year": "200BBY",
+    "homeworld": {
+      "name": "Kashyyyk",
+      "rotation_period": 26.0,
+      "diameter": 12765.0,
+      "climate": "tropical",
+      "population": 45000000.0,
+      "url": "https://swapi.py4e.com/api/planets/14/"
+    },
+    "species": {
+      "name": "Wookiee",
+      "classification": "mammal",
+      "average_height": 210.0,
+      "designation": "sentient",
+      "average_lifespan": 400.0,
+      "language": "Shyriiwook",
+      "url": "https://swapi.py4e.com/api/species/3/"
+    }
+  },
+  {
+    "name": "Tarfful",
+    "height_cm": 234.0,
+    "mass_kg": 136.0,
+    "birth_year": null,
+    "homeworld": {
+      "name": "Kashyyyk",
+      "rotation_period": 26.0,
+      "diameter": 12765.0,
+      "climate": "tropical",
+      "population": 45000000.0,
+      "url": "https://swapi.py4e.com/api/planets/14/"
+    },
+    "species": {
+      "name": "Wookiee",
+      "classification": "mammal",
+      "average_height": 210.0,
+      "designation": "sentient",
+      "average_lifespan": 400.0,
+      "language": "Shyriiwook",
+      "url": "https://swapi.py4e.com/api/species/3/"
+    }
+  },
+  {
+    "name": "Nute Gunray",
+    "height_cm": 191.0,
+    "mass_kg": 90.0,
+    "birth_year": null,
+    "homeworld": {
+      "name": "Cato Neimoidia",
+      "rotation_period": 25.0,
+      "diameter": 0.0,
+      "climate": "temperate, moist",
+      "population": 10000000.0,
+      "url": "https://swapi.py4e.com/api/planets/18/"
+    },
+    "species": {
+      "name": "Neimodian",
+      "classification": "unknown",
+      "average_height": 180.0,
+      "designation": "sentient",
+      "average_lifespan": "unknown",
+      "language": "Neimoidia",
+      "url": "https://swapi.py4e.com/api/species/11/"
+    }
+  },
+  {
+    "name": "Obi-Wan Kenobi",
+    "height_cm": 182.0,
+    "mass_kg": 77.0,
+    "birth_year": "57BBY",
+    "homeworld": {
+      "name": "Stewjon",
+      "rotation_period": "unknown",
+      "diameter": 0.0,
+      "climate": "temperate",
+      "population": "unknown",
+      "url": "https://swapi.py4e.com/api/planets/20/"
+    },
+    "species": {
+      "name": "Human",
+      "classification": "mammal",
+      "average_height": 180.0,
+      "designation": "sentient",
+      "average_lifespan": 120.0,
+      "language": "Galactic Basic",
+      "url": "https://swapi.py4e.com/api/species/1/"
+    }
+  },
+  {
+    "name": "Wilhuff Tarkin",
+    "height_cm": 180.0,
+    "mass_kg": null,
+    "birth_year": "64BBY",
+    "homeworld": {
+      "name": "Eriadu",
+      "rotation_period": 24.0,
+      "diameter": 13490.0,
+      "climate": "polluted",
+      "population": 22000000000.0,
+      "url": "https://swapi.py4e.com/api/planets/21/"
+    },
+    "species": {
+      "name": "Human",
+      "classification": "mammal",
+      "average_height": 180.0,
+      "designation": "sentient",
+      "average_lifespan": 120.0,
+      "language": "Galactic Basic",
+      "url": "https://swapi.py4e.com/api/species/1/"
+    }
+  },
+  {
+    "name": "Han Solo",
+    "height_cm": 180.0,
+    "mass_kg": 80.0,
+    "birth_year": "29BBY",
+    "homeworld": {
+      "name": "Corellia",
+      "rotation_period": 25.0,
+      "diameter": 11000.0,
+      "climate": "temperate",
+      "population": 3000000000.0,
+      "url": "https://swapi.py4e.com/api/planets/22/"
+    },
+    "species": {
+      "name": "Human",
+      "classification": "mammal",
+      "average_height": 180.0,
+      "designation": "sentient",
+      "average_lifespan": 120.0,
+      "language": "Galactic Basic",
+      "url": "https://swapi.py4e.com/api/species/1/"
+    }
+  },
+  {
+    "name": "Wedge Antilles",
+    "height_cm": 170.0,
+    "mass_kg": 77.0,
+    "birth_year": "21BBY",
+    "homeworld": {
+      "name": "Corellia",
+      "rotation_period": 25.0,
+      "diameter": 11000.0,
+      "climate": "temperate",
+      "population": 3000000000.0,
+      "url": "https://swapi.py4e.com/api/planets/22/"
+    },
+    "species": {
+      "name": "Human",
+      "classification": "mammal",
+      "average_height": 180.0,
+      "designation": "sentient",
+      "average_lifespan": 120.0,
+      "language": "Galactic Basic",
+      "url": "https://swapi.py4e.com/api/species/1/"
+    }
+  },
+  {
+    "name": "Greedo",
+    "height_cm": 173.0,
+    "mass_kg": 74.0,
+    "birth_year": "44BBY",
+    "homeworld": {
+      "name": "Rodia",
+      "rotation_period": 29.0,
+      "diameter": 7549.0,
+      "climate": "hot",
+      "population": 1300000000.0,
+      "url": "https://swapi.py4e.com/api/planets/23/"
+    },
+    "species": {
+      "name": "Rodian",
+      "classification": "sentient",
+      "average_height": 170.0,
+      "designation": "reptilian",
+      "average_lifespan": "unknown",
+      "language": "Galatic Basic",
+      "url": "https://swapi.py4e.com/api/species/4/"
+    }
+  },
+  {
+    "name": "Jabba Desilijic Tiure",
+    "height_cm": 175.0,
+    "mass_kg": "1,358",
+    "birth_year": "600BBY",
+    "homeworld": {
+      "name": "Nal Hutta",
+      "rotation_period": 87.0,
+      "diameter": 12150.0,
+      "climate": "temperate",
+      "population": 7000000000.0,
+      "url": "https://swapi.py4e.com/api/planets/24/"
+    },
+    "species": {
+      "name": "Hutt",
+      "classification": "gastropod",
+      "average_height": 300.0,
+      "designation": "sentient",
+      "average_lifespan": 1000.0,
+      "language": "Huttese",
+      "url": "https://swapi.py4e.com/api/species/5/"
+    }
+  },
+  {
+    "name": "Jek Tono Porkins",
+    "height_cm": 180.0,
+    "mass_kg": 110.0,
+    "birth_year": null,
+    "homeworld": {
+      "name": "Bestine IV",
+      "rotation_period": 26.0,
+      "diameter": 6400.0,
+      "climate": "temperate",
+      "population": 62000000.0,
+      "url": "https://swapi.py4e.com/api/planets/26/"
+    },
+    "species": []
+  },
+  {
+    "name": "Bossk",
+    "height_cm": 190.0,
+    "mass_kg": 113.0,
+    "birth_year": "53BBY",
+    "homeworld": {
+      "name": "Trandosha",
+      "rotation_period": 25.0,
+      "diameter": 0.0,
+      "climate": "arid",
+      "population": 42000000.0,
+      "url": "https://swapi.py4e.com/api/planets/29/"
+    },
+    "species": {
+      "name": "Trandoshan",
+      "classification": "reptile",
+      "average_height": 200.0,
+      "designation": "sentient",
+      "average_lifespan": "unknown",
+      "language": "Dosh",
+      "url": "https://swapi.py4e.com/api/species/7/"
+    }
+  },
+  {
+    "name": "Lando Calrissian",
+    "height_cm": 177.0,
+    "mass_kg": 79.0,
+    "birth_year": "31BBY",
+    "homeworld": {
+      "name": "Socorro",
+      "rotation_period": 20.0,
+      "diameter": 0.0,
+      "climate": "arid",
+      "population": 300000000.0,
+      "url": "https://swapi.py4e.com/api/planets/30/"
+    },
+    "species": {
+      "name": "Human",
+      "classification": "mammal",
+      "average_height": 180.0,
+      "designation": "sentient",
+      "average_lifespan": 120.0,
+      "language": "Galactic Basic",
+      "url": "https://swapi.py4e.com/api/species/1/"
+    }
+  },
+  {
+    "name": "Ackbar",
+    "height_cm": 180.0,
+    "mass_kg": 83.0,
+    "birth_year": "41BBY",
+    "homeworld": {
+      "name": "Mon Cala",
+      "rotation_period": 21.0,
+      "diameter": 11030.0,
+      "climate": "temperate",
+      "population": 27000000000.0,
+      "url": "https://swapi.py4e.com/api/planets/31/"
+    },
+    "species": {
+      "name": "Mon Calamari",
+      "classification": "amphibian",
+      "average_height": 160.0,
+      "designation": "sentient",
+      "average_lifespan": "unknown",
+      "language": "Mon Calamarian",
+      "url": "https://swapi.py4e.com/api/species/8/"
+    }
+  },
+  {
+    "name": "Mon Mothma",
+    "height_cm": 150.0,
+    "mass_kg": null,
+    "birth_year": "48BBY",
+    "homeworld": {
+      "name": "Chandrila",
+      "rotation_period": 20.0,
+      "diameter": 13500.0,
+      "climate": "temperate",
+      "population": 1200000000.0,
+      "url": "https://swapi.py4e.com/api/planets/32/"
+    },
+    "species": {
+      "name": "Human",
+      "classification": "mammal",
+      "average_height": 180.0,
+      "designation": "sentient",
+      "average_lifespan": 120.0,
+      "language": "Galactic Basic",
+      "url": "https://swapi.py4e.com/api/species/1/"
+    }
+  },
+  {
+    "name": "Nien Nunb",
+    "height_cm": 160.0,
+    "mass_kg": 68.0,
+    "birth_year": null,
+    "homeworld": {
+      "name": "Sullust",
+      "rotation_period": 20.0,
+      "diameter": 12780.0,
+      "climate": "superheated",
+      "population": 18500000000.0,
+      "url": "https://swapi.py4e.com/api/planets/33/"
+    },
+    "species": {
+      "name": "Sullustan",
+      "classification": "mammal",
+      "average_height": 180.0,
+      "designation": "sentient",
+      "average_lifespan": "unknown",
+      "language": "Sullutese",
+      "url": "https://swapi.py4e.com/api/species/10/"
+    }
+  },
+  {
+    "name": "Watto",
+    "height_cm": 137.0,
+    "mass_kg": null,
+    "birth_year": null,
+    "homeworld": {
+      "name": "Toydaria",
+      "rotation_period": 21.0,
+      "diameter": 7900.0,
+      "climate": "temperate",
+      "population": 11000000.0,
+      "url": "https://swapi.py4e.com/api/planets/34/"
+    },
+    "species": {
+      "name": "Toydarian",
+      "classification": "mammal",
+      "average_height": 120.0,
+      "designation": "sentient",
+      "average_lifespan": 91.0,
+      "language": "Toydarian",
+      "url": "https://swapi.py4e.com/api/species/13/"
+    }
+  },
+  {
+    "name": "Sebulba",
+    "height_cm": 112.0,
+    "mass_kg": 40.0,
+    "birth_year": null,
+    "homeworld": {
+      "name": "Malastare",
+      "rotation_period": 26.0,
+      "diameter": 18880.0,
+      "climate": "arid, temperate, tropical",
+      "population": 2000000000.0,
+      "url": "https://swapi.py4e.com/api/planets/35/"
+    },
+    "species": {
+      "name": "Dug",
+      "classification": "mammal",
+      "average_height": 100.0,
+      "designation": "sentient",
+      "average_lifespan": "unknown",
+      "language": "Dugese",
+      "url": "https://swapi.py4e.com/api/species/14/"
+    }
+  },
+  {
+    "name": "Darth Maul",
+    "height_cm": 175.0,
+    "mass_kg": 80.0,
+    "birth_year": "54BBY",
+    "homeworld": {
+      "name": "Dathomir",
+      "rotation_period": 24.0,
+      "diameter": 10480.0,
+      "climate": "temperate",
+      "population": 5200.0,
+      "url": "https://swapi.py4e.com/api/planets/36/"
+    },
+    "species": {
+      "name": "Zabrak",
+      "classification": "mammal",
+      "average_height": 180.0,
+      "designation": "sentient",
+      "average_lifespan": "unknown",
+      "language": "Zabraki",
+      "url": "https://swapi.py4e.com/api/species/22/"
+    }
+  },
+  {
+    "name": "Bib Fortuna",
+    "height_cm": 180.0,
+    "mass_kg": null,
+    "birth_year": null,
+    "homeworld": {
+      "name": "Ryloth",
+      "rotation_period": 30.0,
+      "diameter": 10600.0,
+      "climate": "temperate, arid, subartic",
+      "population": 1500000000.0,
+      "url": "https://swapi.py4e.com/api/planets/37/"
+    },
+    "species": {
+      "name": "Twi'lek",
+      "classification": "mammals",
+      "average_height": 200.0,
+      "designation": "sentient",
+      "average_lifespan": "unknown",
+      "language": "Twi'leki",
+      "url": "https://swapi.py4e.com/api/species/15/"
+    }
+  },
+  {
+    "name": "Ayla Secura",
+    "height_cm": 178.0,
+    "mass_kg": 55.0,
+    "birth_year": "48BBY",
+    "homeworld": {
+      "name": "Ryloth",
+      "rotation_period": 30.0,
+      "diameter": 10600.0,
+      "climate": "temperate, arid, subartic",
+      "population": 1500000000.0,
+      "url": "https://swapi.py4e.com/api/planets/37/"
+    },
+    "species": {
+      "name": "Twi'lek",
+      "classification": "mammals",
+      "average_height": 200.0,
+      "designation": "sentient",
+      "average_lifespan": "unknown",
+      "language": "Twi'leki",
+      "url": "https://swapi.py4e.com/api/species/15/"
+    }
+  },
+  {
+    "name": "Ratts Tyerel",
+    "height_cm": 79.0,
+    "mass_kg": 15.0,
+    "birth_year": null,
+    "homeworld": {
+      "name": "Aleen Minor",
+      "rotation_period": "unknown",
+      "diameter": "unknown",
+      "climate": "unknown",
+      "population": "unknown",
+      "url": "https://swapi.py4e.com/api/planets/38/"
+    },
+    "species": {
+      "name": "Aleena",
+      "classification": "reptile",
+      "average_height": 80.0,
+      "designation": "sentient",
+      "average_lifespan": 79.0,
+      "language": "Aleena",
+      "url": "https://swapi.py4e.com/api/species/16/"
+    }
+  },
+  {
+    "name": "Dud Bolt",
+    "height_cm": 94.0,
+    "mass_kg": 45.0,
+    "birth_year": null,
+    "homeworld": {
+      "name": "Vulpter",
+      "rotation_period": 22.0,
+      "diameter": 14900.0,
+      "climate": "temperate, artic",
+      "population": 421000000.0,
+      "url": "https://swapi.py4e.com/api/planets/39/"
+    },
+    "species": {
+      "name": "Vulptereen",
+      "classification": "unknown",
+      "average_height": 100.0,
+      "designation": "sentient",
+      "average_lifespan": "unknown",
+      "language": "vulpterish",
+      "url": "https://swapi.py4e.com/api/species/17/"
+    }
+  },
+  {
+    "name": "Gasgano",
+    "height_cm": 122.0,
+    "mass_kg": null,
+    "birth_year": null,
+    "homeworld": {
+      "name": "Troiken",
+      "rotation_period": "unknown",
+      "diameter": "unknown",
+      "climate": "unknown",
+      "population": "unknown",
+      "url": "https://swapi.py4e.com/api/planets/40/"
+    },
+    "species": {
+      "name": "Xexto",
+      "classification": "unknown",
+      "average_height": 125.0,
+      "designation": "sentient",
+      "average_lifespan": "unknown",
+      "language": "Xextese",
+      "url": "https://swapi.py4e.com/api/species/18/"
+    }
+  },
+  {
+    "name": "Ben Quadinaros",
+    "height_cm": 163.0,
+    "mass_kg": 65.0,
+    "birth_year": null,
+    "homeworld": {
+      "name": "Tund",
+      "rotation_period": 48.0,
+      "diameter": 12190.0,
+      "climate": "unknown",
+      "population": 0.0,
+      "url": "https://swapi.py4e.com/api/planets/41/"
+    },
+    "species": {
+      "name": "Toong",
+      "classification": "unknown",
+      "average_height": 200.0,
+      "designation": "sentient",
+      "average_lifespan": "unknown",
+      "language": "Tundan",
+      "url": "https://swapi.py4e.com/api/species/19/"
+    }
+  },
+  {
+    "name": "Mace Windu",
+    "height_cm": 188.0,
+    "mass_kg": 84.0,
+    "birth_year": "72BBY",
+    "homeworld": {
+      "name": "Haruun Kal",
+      "rotation_period": 25.0,
+      "diameter": 10120.0,
+      "climate": "temperate",
+      "population": 705300.0,
+      "url": "https://swapi.py4e.com/api/planets/42/"
+    },
+    "species": {
+      "name": "Human",
+      "classification": "mammal",
+      "average_height": 180.0,
+      "designation": "sentient",
+      "average_lifespan": 120.0,
+      "language": "Galactic Basic",
+      "url": "https://swapi.py4e.com/api/species/1/"
+    }
+  },
+  {
+    "name": "Ki-Adi-Mundi",
+    "height_cm": 198.0,
+    "mass_kg": 82.0,
+    "birth_year": "92BBY",
+    "homeworld": {
+      "name": "Cerea",
+      "rotation_period": 27.0,
+      "diameter": "unknown",
+      "climate": "temperate",
+      "population": 450000000.0,
+      "url": "https://swapi.py4e.com/api/planets/43/"
+    },
+    "species": {
+      "name": "Cerean",
+      "classification": "mammal",
+      "average_height": 200.0,
+      "designation": "sentient",
+      "average_lifespan": "unknown",
+      "language": "Cerean",
+      "url": "https://swapi.py4e.com/api/species/20/"
+    }
+  },
+  {
+    "name": "Kit Fisto",
+    "height_cm": 196.0,
+    "mass_kg": 87.0,
+    "birth_year": null,
+    "homeworld": {
+      "name": "Glee Anselm",
+      "rotation_period": 33.0,
+      "diameter": 15600.0,
+      "climate": "tropical, temperate",
+      "population": 500000000.0,
+      "url": "https://swapi.py4e.com/api/planets/44/"
+    },
+    "species": {
+      "name": "Nautolan",
+      "classification": "amphibian",
+      "average_height": 180.0,
+      "designation": "sentient",
+      "average_lifespan": 70.0,
+      "language": "Nautila",
+      "url": "https://swapi.py4e.com/api/species/21/"
+    }
+  },
+  {
+    "name": "Eeth Koth",
+    "height_cm": 171.0,
+    "mass_kg": null,
+    "birth_year": null,
+    "homeworld": {
+      "name": "Iridonia",
+      "rotation_period": 29.0,
+      "diameter": "unknown",
+      "climate": "unknown",
+      "population": "unknown",
+      "url": "https://swapi.py4e.com/api/planets/45/"
+    },
+    "species": {
+      "name": "Zabrak",
+      "classification": "mammal",
+      "average_height": 180.0,
+      "designation": "sentient",
+      "average_lifespan": "unknown",
+      "language": "Zabraki",
+      "url": "https://swapi.py4e.com/api/species/22/"
+    }
+  },
+  {
+    "name": "Saesee Tiin",
+    "height_cm": 188.0,
+    "mass_kg": null,
+    "birth_year": null,
+    "homeworld": {
+      "name": "Iktotch",
+      "rotation_period": 22.0,
+      "diameter": "unknown",
+      "climate": "arid, rocky, windy",
+      "population": "unknown",
+      "url": "https://swapi.py4e.com/api/planets/47/"
+    },
+    "species": {
+      "name": "Iktotchi",
+      "classification": "unknown",
+      "average_height": 180.0,
+      "designation": "sentient",
+      "average_lifespan": "unknown",
+      "language": "Iktotchese",
+      "url": "https://swapi.py4e.com/api/species/24/"
+    }
+  },
+  {
+    "name": "Yarael Poof",
+    "height_cm": 264.0,
+    "mass_kg": null,
+    "birth_year": null,
+    "homeworld": {
+      "name": "Quermia",
+      "rotation_period": "unknown",
+      "diameter": "unknown",
+      "climate": "unknown",
+      "population": "unknown",
+      "url": "https://swapi.py4e.com/api/planets/48/"
+    },
+    "species": {
+      "name": "Quermian",
+      "classification": "mammal",
+      "average_height": 240.0,
+      "designation": "sentient",
+      "average_lifespan": 86.0,
+      "language": "Quermian",
+      "url": "https://swapi.py4e.com/api/species/25/"
+    }
+  },
+  {
+    "name": "Plo Koon",
+    "height_cm": 188.0,
+    "mass_kg": 80.0,
+    "birth_year": "22BBY",
+    "homeworld": {
+      "name": "Dorin",
+      "rotation_period": 22.0,
+      "diameter": 13400.0,
+      "climate": "temperate",
+      "population": "unknown",
+      "url": "https://swapi.py4e.com/api/planets/49/"
+    },
+    "species": {
+      "name": "Kel Dor",
+      "classification": "unknown",
+      "average_height": 180.0,
+      "designation": "sentient",
+      "average_lifespan": 70.0,
+      "language": "Kel Dor",
+      "url": "https://swapi.py4e.com/api/species/26/"
+    }
+  },
+  {
+    "name": "Mas Amedda",
+    "height_cm": 196.0,
+    "mass_kg": null,
+    "birth_year": null,
+    "homeworld": {
+      "name": "Champala",
+      "rotation_period": 27.0,
+      "diameter": "unknown",
+      "climate": "temperate",
+      "population": 3500000000.0,
+      "url": "https://swapi.py4e.com/api/planets/50/"
+    },
+    "species": {
+      "name": "Chagrian",
+      "classification": "amphibian",
+      "average_height": 190.0,
+      "designation": "sentient",
+      "average_lifespan": "unknown",
+      "language": "Chagria",
+      "url": "https://swapi.py4e.com/api/species/27/"
+    }
+  },
+  {
+    "name": "Luminara Unduli",
+    "height_cm": 170.0,
+    "mass_kg": 56.2,
+    "birth_year": "58BBY",
+    "homeworld": {
+      "name": "Mirial",
+      "rotation_period": "unknown",
+      "diameter": "unknown",
+      "climate": "unknown",
+      "population": "unknown",
+      "url": "https://swapi.py4e.com/api/planets/51/"
+    },
+    "species": {
+      "name": "Mirialan",
+      "classification": "mammal",
+      "average_height": 180.0,
+      "designation": "sentient",
+      "average_lifespan": "unknown",
+      "language": "Mirialan",
+      "url": "https://swapi.py4e.com/api/species/29/"
+    }
+  },
+  {
+    "name": "Barriss Offee",
+    "height_cm": 166.0,
+    "mass_kg": 50.0,
+    "birth_year": "40BBY",
+    "homeworld": {
+      "name": "Mirial",
+      "rotation_period": "unknown",
+      "diameter": "unknown",
+      "climate": "unknown",
+      "population": "unknown",
+      "url": "https://swapi.py4e.com/api/planets/51/"
+    },
+    "species": {
+      "name": "Mirialan",
+      "classification": "mammal",
+      "average_height": 180.0,
+      "designation": "sentient",
+      "average_lifespan": "unknown",
+      "language": "Mirialan",
+      "url": "https://swapi.py4e.com/api/species/29/"
+    }
+  },
+  {
+    "name": "Dooku",
+    "height_cm": 193.0,
+    "mass_kg": 80.0,
+    "birth_year": "102BBY",
+    "homeworld": {
+      "name": "Serenno",
+      "rotation_period": "unknown",
+      "diameter": "unknown",
+      "climate": "unknown",
+      "population": "unknown",
+      "url": "https://swapi.py4e.com/api/planets/52/"
+    },
+    "species": {
+      "name": "Human",
+      "classification": "mammal",
+      "average_height": 180.0,
+      "designation": "sentient",
+      "average_lifespan": 120.0,
+      "language": "Galactic Basic",
+      "url": "https://swapi.py4e.com/api/species/1/"
+    }
+  },
+  {
+    "name": "Jango Fett",
+    "height_cm": 183.0,
+    "mass_kg": 79.0,
+    "birth_year": "66BBY",
+    "homeworld": {
+      "name": "Concord Dawn",
+      "rotation_period": "unknown",
+      "diameter": "unknown",
+      "climate": "unknown",
+      "population": "unknown",
+      "url": "https://swapi.py4e.com/api/planets/53/"
+    },
+    "species": {
+      "name": "Human",
+      "classification": "mammal",
+      "average_height": 180.0,
+      "designation": "sentient",
+      "average_lifespan": 120.0,
+      "language": "Galactic Basic",
+      "url": "https://swapi.py4e.com/api/species/1/"
+    }
+  },
+  {
+    "name": "Zam Wesell",
+    "height_cm": 168.0,
+    "mass_kg": 55.0,
+    "birth_year": null,
+    "homeworld": {
+      "name": "Zolan",
+      "rotation_period": "unknown",
+      "diameter": "unknown",
+      "climate": "unknown",
+      "population": "unknown",
+      "url": "https://swapi.py4e.com/api/planets/54/"
+    },
+    "species": {
+      "name": "Clawdite",
+      "classification": "reptilian",
+      "average_height": 180.0,
+      "designation": "sentient",
+      "average_lifespan": 70.0,
+      "language": "Clawdite",
+      "url": "https://swapi.py4e.com/api/species/30/"
+    }
+  },
+  {
+    "name": "Dexter Jettster",
+    "height_cm": 198.0,
+    "mass_kg": 102.0,
+    "birth_year": null,
+    "homeworld": {
+      "name": "Ojom",
+      "rotation_period": "unknown",
+      "diameter": "unknown",
+      "climate": "frigid",
+      "population": 500000000.0,
+      "url": "https://swapi.py4e.com/api/planets/55/"
+    },
+    "species": {
+      "name": "Besalisk",
+      "classification": "amphibian",
+      "average_height": 178.0,
+      "designation": "sentient",
+      "average_lifespan": 75.0,
+      "language": "besalisk",
+      "url": "https://swapi.py4e.com/api/species/31/"
+    }
+  },
+  {
+    "name": "Wat Tambor",
+    "height_cm": 193.0,
+    "mass_kg": 48.0,
+    "birth_year": null,
+    "homeworld": {
+      "name": "Skako",
+      "rotation_period": 27.0,
+      "diameter": "unknown",
+      "climate": "temperate",
+      "population": 500000000000.0,
+      "url": "https://swapi.py4e.com/api/planets/56/"
+    },
+    "species": {
+      "name": "Skakoan",
+      "classification": "mammal",
+      "average_height": "unknown",
+      "designation": "sentient",
+      "average_lifespan": "unknown",
+      "language": "Skakoan",
+      "url": "https://swapi.py4e.com/api/species/33/"
+    }
+  },
+  {
+    "name": "San Hill",
+    "height_cm": 191.0,
+    "mass_kg": null,
+    "birth_year": null,
+    "homeworld": {
+      "name": "Muunilinst",
+      "rotation_period": 28.0,
+      "diameter": 13800.0,
+      "climate": "temperate",
+      "population": 5000000000.0,
+      "url": "https://swapi.py4e.com/api/planets/57/"
+    },
+    "species": {
+      "name": "Muun",
+      "classification": "mammal",
+      "average_height": 190.0,
+      "designation": "sentient",
+      "average_lifespan": 100.0,
+      "language": "Muun",
+      "url": "https://swapi.py4e.com/api/species/34/"
+    }
+  },
+  {
+    "name": "Shaak Ti",
+    "height_cm": 178.0,
+    "mass_kg": 57.0,
+    "birth_year": null,
+    "homeworld": {
+      "name": "Shili",
+      "rotation_period": "unknown",
+      "diameter": "unknown",
+      "climate": "temperate",
+      "population": "unknown",
+      "url": "https://swapi.py4e.com/api/planets/58/"
+    },
+    "species": {
+      "name": "Togruta",
+      "classification": "mammal",
+      "average_height": 180.0,
+      "designation": "sentient",
+      "average_lifespan": 94.0,
+      "language": "Togruti",
+      "url": "https://swapi.py4e.com/api/species/35/"
+    }
+  },
+  {
+    "name": "Grievous",
+    "height_cm": 216.0,
+    "mass_kg": 159.0,
+    "birth_year": null,
+    "homeworld": {
+      "name": "Kalee",
+      "rotation_period": 23.0,
+      "diameter": 13850.0,
+      "climate": "arid, temperate, tropical",
+      "population": 4000000000.0,
+      "url": "https://swapi.py4e.com/api/planets/59/"
+    },
+    "species": {
+      "name": "Kaleesh",
+      "classification": "reptile",
+      "average_height": 170.0,
+      "designation": "sentient",
+      "average_lifespan": 80.0,
+      "language": "Kaleesh",
+      "url": "https://swapi.py4e.com/api/species/36/"
+    }
+  },
+  {
+    "name": "Sly Moore",
+    "height_cm": 178.0,
+    "mass_kg": 48.0,
+    "birth_year": null,
+    "homeworld": {
+      "name": "Umbara",
+      "rotation_period": "unknown",
+      "diameter": "unknown",
+      "climate": "unknown",
+      "population": "unknown",
+      "url": "https://swapi.py4e.com/api/planets/60/"
+    },
+    "species": []
+  }
+]

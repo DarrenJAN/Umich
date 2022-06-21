@@ -1,0 +1,42 @@
+{
+  "Alderaan": {
+    "name": "Alderaan",
+    "diameter": 12500,
+    "climate": [
+      "temperate"
+    ],
+    "terrain": [
+      "grasslands",
+      "mountains"
+    ],
+    "population": 2000000000
+  },
+  "Kashyyyk": {
+    "name": "Kashyyyk",
+    "diameter": 12765,
+    "climate": [
+      "tropical"
+    ],
+    "terrain": [
+      "jungle",
+      "forests",
+      "lakes",
+      "rivers"
+    ],
+    "population": 45000000
+  },
+  "Corellia": {
+    "name": "Corellia",
+    "diameter": 11000,
+    "climate": [
+      "temperate"
+    ],
+    "terrain": [
+      "plains",
+      "urban",
+      "hills",
+      "forests"
+    ],
+    "population": 3000000000
+  }
+}

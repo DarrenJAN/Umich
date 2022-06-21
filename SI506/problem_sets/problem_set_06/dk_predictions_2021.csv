@@ -1,0 +1,64 @@
+ROUND,WTEAM,LTEAM
+1,Gonzaga,Nofolk
+1,Missouri,Oklahoma
+1,Creighton,UCSB
+1,Virginia,Ohio
+1,USC,Drake
+1,Kansas,E Washington
+1,Oregon,VCU
+1,Iowa,Grand Canyon
+1,Baylor,Hartford
+1,North Carolina,Wisconsin
+1,Winthrop,Villanova
+1,Purdue,North Texas
+1,Texas Tech,Utah State
+1,Arkansas,Colgate
+1,Florida,Virginia Tech
+1,Ohio State,Oral Roberts
+1,Illinois,Drexel
+1,Loyola-Chicago,Georgia Tech
+1,Tennessee,Oregon State
+1,Oklahoma State,Liberty
+1,Syracuse,San Diego State
+1,West Virginia,Morehead State
+1,Rutgers,Clemson
+1,Houston,Cleveland State
+1,Michigan,Mount St. Mary's
+1,St. Bonaventure,LSU
+1,Georgetown,Colorado
+1,FSU,UNCG
+1,Michigan State,BYU
+1,Texas,Abilene Christian
+1,Connecticut,Maryland
+1,Alabama,Iona
+2,Gonzaga,Missouri
+2,Virginia,Creighton
+2,USC,Kansas
+2,Iowa,Oregon
+2,Baylor,North Carolina
+2,Winthrop,Purdue
+2,Arkansas,Texas Tech
+2,Ohio State,Florida
+2,Illinois,Loyola-Chicago
+2,Tennessee,Oklahoma State
+2,Syracuse,WVU
+2,Houston,Rutgers
+2,Michigan,St. Bonaventure
+2,FSU,Georgetown
+2,Texas,Michigan State
+2,Alabama,UConn
+3,Gonzaga,Virginia
+3,USC,Iowa
+3,Baylor,Winthrop
+3,Arkansas,Ohio State
+3,Illinois,Tennessee
+3,Houston,Syracuse
+3,Michigan,FSU
+3,Alabama,Texas
+4,Gonzaga,USC
+4,Baylor,Arkansas
+4,Illinois,Houston
+4,Alabama,Michigan
+5,Gonzaga,Baylor
+5,Illinois,Alabama
+6,Gonzaga,Illinois

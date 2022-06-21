@@ -1,0 +1,214 @@
+[
+  {
+    "title": "Atomic Habits",
+    "language": "English",
+    "rating": 4.8,
+    "weight_ounces": 12.3,
+    "num_reviews": 68878,
+    "author": "James Clear",
+    "ISBN_10": "0735211299",
+    "genre": [
+      "Nonfiction",
+      "Self-help"
+    ],
+    "price": {
+      "Kindle": 13.99,
+      "Audiobook": 0,
+      "Hardcover": 11.98,
+      "Paperback": 18
+    },
+    "discount": true
+  },
+  {
+    "title": "The Seven Husbands of Evelyn Hugo",
+    "language": "English",
+    "rating": 4.6,
+    "weight_ounces": 10.9,
+    "num_reviews": 54882,
+    "author": "Taylor Jenkins Reid",
+    "ISBN_10": "1501161938",
+    "genre": [
+      "Psychological Fiction",
+      "Romance Novel"
+    ],
+    "price": {
+      "Kindle": 14.99,
+      "Audiobook": 0,
+      "Hardcover": 22.49,
+      "Paperback": 9.42
+    },
+    "discount": false
+  },
+  {
+    "title": "It Ends with Us",
+    "language": "English",
+    "rating": 4.7,
+    "num_reviews": 67548,
+    "author": "Colleen Hoover",
+    "ISBN_10": "1501110365",
+    "genre": [
+      "Romance Novel"
+    ],
+    "price": {
+      "Kindle": 11.99,
+      "Audiobook": 0,
+      "Paperback": 12.99
+    },
+    "discount": true
+  },
+  {
+    "title": "Reminders of Him",
+    "language": "English",
+    "rating": 4.7,
+    "weight_ounces": 11.2,
+    "num_reviews": 42222,
+    "author": "Colleen Hoover",
+    "ISBN_10": "1542025605",
+    "genre": [
+      "Domestic",
+      "Romance Novel"
+    ],
+    "price": {
+      "Kindle": 0,
+      "Audiobook": 0,
+      "Paperback": 11.95
+    },
+    "discount": true
+  },
+  {
+    "title": "Verity",
+    "language": "English",
+    "rating": 4.6,
+    "weight_ounces": 9.6,
+    "num_reviews": 67091,
+    "author": "Colleen Hoover",
+    "ISBN_10": "1538724731",
+    "genre": [
+      "Thriller",
+      "Romance Novel"
+    ],
+    "price": {
+      "Kindle": 11.99,
+      "Audiobook": 0,
+      "Hardcover": 23.99,
+      "Paperback": 11.26
+    },
+    "discount": false
+  },
+  {
+    "title": "Little Blue Truck's Valentine",
+    "language": "English",
+    "rating": 4.9,
+    "weight_ounces": 17.92,
+    "num_reviews": 6397,
+    "author": "Alice Schertle",
+    "ISBN_10": "0358272440",
+    "genre": [
+      "Children\u2019s Picture Books",
+      "Bedtime Story"
+    ],
+    "price": {
+      "Kindle": 0,
+      "Hardcover": 10.55
+    },
+    "discount": false
+  },
+  {
+    "title": "The Complete Maus: A Survivor's Tale",
+    "language": "English",
+    "rating": 4.8,
+    "weight_ounces": 30.88,
+    "num_reviews": 4982,
+    "author": "Art Spiegelman",
+    "ISBN_10": "0679406417",
+    "genre": [
+      "Comics",
+      "Graphic Novel"
+    ],
+    "price": {
+      "Hardcover": 22.89,
+      "Paperback": 33
+    },
+    "discount": false
+  },
+  {
+    "title": "I Love You to the Moon and Back",
+    "language": "English",
+    "rating": 4.9,
+    "weight_ounces": 10.4,
+    "num_reviews": 50419,
+    "author": "Amelia Hepworth",
+    "ISBN_10": "1589255518",
+    "genre": [
+      "Children\u2019s Picture Books",
+      "Fiction"
+    ],
+    "price": {
+      "Audiobook": 0,
+      "Hardcover": 12.57,
+      "Board book": 4.31
+    },
+    "discount": true
+  },
+  {
+    "title": "The Very Hungry Caterpillar",
+    "language": "English",
+    "rating": 4.9,
+    "weight_ounces": 6.4,
+    "num_reviews": 46699,
+    "author": "Eric Carle",
+    "ISBN_10": "0399226907",
+    "genre": [
+      "Children\u2019s Picture Books",
+      "Fiction"
+    ],
+    "price": {
+      "Kindle": 8.99,
+      "Audiobook": 0,
+      "Board book": 5.06
+    },
+    "discount": false
+  },
+  {
+    "title": "The Last Thing He Told Me",
+    "language": "English",
+    "rating": 4.3,
+    "weight_ounces": 17.12,
+    "num_reviews": 75366,
+    "author": "Laura Dave",
+    "ISBN_10": "1501171348",
+    "genre": [
+      "Thriller",
+      "Domestic Fiction"
+    ],
+    "price": {
+      "Kindle": 13.99,
+      "Audiobook": 0,
+      "Hardcover": 13.5,
+      "Paperback": 15,
+      "Audio CD": 14.85
+    },
+    "discount": true
+  },
+  {
+    "title": "How to Catch a Leprechaun",
+    "language": "English",
+    "rating": 4.8,
+    "weight_ounces": 9.9,
+    "num_reviews": 5631,
+    "author": "Adam Wallace",
+    "ISBN_10": "1492632910",
+    "genre": [
+      "Children\u2019s Picture Books",
+      "Fiction"
+    ],
+    "price": {
+      "Kindle": 5.99,
+      "Audiobook": 0,
+      "Hardcover": 7.43,
+      "Paperback": 8.99,
+      "Audio CD": 24.05
+    },
+    "discount": true
+  }
+]
